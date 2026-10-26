@@ -13,5 +13,5 @@ Une phrase qui explique ce que fait le projet et pour qui.
 
 ## Équipe
 
-- Prénom Nom
-- Prénom Nom
+- Antoine Crèvecoeur
+- Samantha Kaufmann Deblock
